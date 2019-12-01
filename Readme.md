@@ -12,7 +12,7 @@ Key Requirements: Python 3+, Keras 2+, TensorFlow 1+, OpenCV 2+
 ## Demo
 Demo of digit counting with and without binary mask visible.
 
-![](https://imgur.com/CbeModa)
+![](https://imgur.com/CbeModa.gif)
 
 
 
